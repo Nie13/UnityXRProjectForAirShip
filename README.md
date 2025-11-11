@@ -1,7 +1,12 @@
 # Air ship (VR Game with Unity)
-This project is full VR interactable with hands. Player can switch between different seats to operate different parts of this air ship.
+This project is a full VR interactable air ship experience=. Player can switch between different seats to operate different parts of the ship.
 
 ## Demo
+![img.png](img.png)
+![img_3.png](img_3.png)
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
 A short demo video is available here: https://drive.google.com/file/d/1igBso6hzdmuEoiHCpx6rH8p66L33xzC8/view?usp=drive_link 
 
 ### Roles
